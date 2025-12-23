@@ -13,16 +13,6 @@ Final-year B.E. student in Artificial Intelligence & Data Science with strong ha
   <img src="https://skillicons.dev/icons?i=js,cpp,html,css,react,nodejs,express,mongodb,mysql,git,github" />
 </p>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-</p>
-
 ### AI / Data Science:
 Machine Learning, Deep Learning (CNN), Data Cleaning & Preprocessing, Statistical Analysis
 
@@ -32,7 +22,7 @@ TensorFlow, OpenCV, Matplotlib, Power BI, Tableau
 ### Databases:
 SQL, MySQL, MongoDB
 
-## Developer Tools:
+### Developer Tools:
 Git, GitHub, VS Code, Google Colab, AWS (Basic)
 
 # 🏆 Projects
@@ -45,7 +35,6 @@ CNN-based model using TensorFlow & OpenCV
 
 Real-time emotion classification from live video
 Tech: Python, TensorFlow, OpenCV, Deep Learning
-GitHub
 
 🔹 EncryptXpert – Secure File Protection Tool
 
@@ -57,7 +46,6 @@ Secure key generation using PBKDF2
 
 Reliable metadata handling and file recovery
 Tech: Python, PyCryptodome, AES, Cryptography
-GitHub
 
 🔹 Protecting Medical Data Using Zero Trust Architecture
 
@@ -99,4 +87,16 @@ Gained hands-on industry exposure to AI-driven applications
 
 Open to AI/Data Science roles, internships, research projects, and technical collaborations.
 
-🔗 LinkedIn | GitHub
+🔗 LinkedIn | Protfolio
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://https://dhanudevu.github.io/Protfolio/
+" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
