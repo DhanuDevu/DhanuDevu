@@ -64,46 +64,41 @@ Final-year B.E. student in Artificial Intelligence & Data Science with strong ha
 
 ## 🔹 Face Emotion Detection Using AI
 
-AI-based real-time system to detect and classify human emotions (happy, sad, angry, surprise, fear, neutral).
-
-CNN-based model using TensorFlow & OpenCV
-
-Real-time emotion classification from live video
-Tech: Python, TensorFlow, OpenCV, Deep Learning
+🔘 AI-based real-time system to detect and classify human emotions
+🔘 Supports emotions: Happy, Sad, Angry, Surprise, Fear, Neutral
+🔘 Built using CNN architecture for accurate predictions
+🔘 Performs live emotion detection from video feed
+🔘 Tech Used: Python · TensorFlow · OpenCV · Deep Learning
 
 ## 🔹 EncryptXpert – Secure File Protection Tool
 
-Password-based file encryption and decryption system for secure data handling.
-
-Implemented AES-GCM/EAX encryption
-
-Secure key generation using PBKDF2
-
-Reliable metadata handling and file recovery
-Tech: Python, PyCryptodome, AES, Cryptography
+🔘 Password-based file encryption & decryption system
+🔘 Uses AES-GCM / EAX for strong data security
+🔘 Secure key generation implemented using PBKDF2
+🔘 Ensures safe metadata handling & reliable file recovery
+🔘 Tech Used: Python · PyCryptodome · AES · Cryptography
 
 ## 🔹 Protecting Medical Data Using Zero Trust Architecture
 
-Main project focused on healthcare data privacy and security.
-
-Zero Trust Architecture with blockchain-based protection
-
-SHA-256 encryption and secure access mechanisms
-
-Compliance-focused medical data handling
-Tech: Blockchain, Cryptography, Data Security
+🔘 Main project focused on healthcare data privacy & security
+🔘 Implemented Zero Trust Architecture for secure access control
+🔘 Integrated Blockchain-based protection for sensitive data
+🔘 Applied SHA-256 encryption and strict access mechanisms
+🔘 Tech Used: Blockchain · Cryptography · Data Security
 
 ## 🔹 Real-Time Bus Tracking System
 
-Built during internship to track buses in real time
-
-Integrated frontend, backend, and data handling
+🔘 Developed during internship for real-time vehicle tracking
+🔘 Tracks bus location dynamically for users
+🔘 Integrated frontend, backend, and live data handling
+🔘 Improved transport monitoring and efficiency
 
 ## 🔹 Face Recognition Attendance System
 
-Automated attendance using face recognition models
-
-Reduced manual intervention and improved accuracy
+🔘 Automated attendance system using face recognition
+🔘 Reduced manual effort and human errors
+🔘 Improved accuracy and speed of attendance tracking
+🔘 Suitable for educational and organizational use
 
 (Additional projects include calculators, trackers, productivity apps, and portfolio website.)
 
