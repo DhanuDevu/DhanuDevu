@@ -4,7 +4,7 @@
 </h1>
 
 
-🚀 About Me
+## 🚀 About Me
 Final-year B.E. student in Artificial Intelligence & Data Science with strong hands-on experience in Machine Learning, Data Analytics, and secure application development. I work at the intersection of AI, data, and security, building real-world systems like emotion detection, encryption tools, and privacy-focused architectures. Solid foundation in Python, data preprocessing, deep learning (CNNs), and visualization, with exposure to full-stack and cloud tools.
 
 ## 🛠️ Tech Stack
@@ -13,20 +13,29 @@ Final-year B.E. student in Artificial Intelligence & Data Science with strong ha
   <img src="https://skillicons.dev/icons?i=js,cpp,html,css,react,nodejs,express,mongodb,mysql,git,github" />
 </p>
 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+</p>
 
 ### AI / Data Science:
 Machine Learning, Deep Learning (CNN), Data Cleaning & Preprocessing, Statistical Analysis
 
-#### Libraries & Tools:
+### Libraries & Tools:
 TensorFlow, OpenCV, Matplotlib, Power BI, Tableau
 
-##### Databases:
+### Databases:
 SQL, MySQL, MongoDB
 
-###### Developer Tools:
+## Developer Tools:
 Git, GitHub, VS Code, Google Colab, AWS (Basic)
 
-####### 🏆 Projects
+# 🏆 Projects
 
 🔹 Face Emotion Detection Using AI
 
@@ -75,7 +84,7 @@ Reduced manual intervention and improved accuracy
 
 (Additional projects include calculators, trackers, productivity apps, and portfolio website.)
 
-💼 Internship
+## 💼 Internship
 
 TechnoFly Solutions – Web Development & Data Science Intern
 📅 Jul 2025 – Aug 2025
@@ -86,7 +95,7 @@ Applied ML models with frontend development
 
 Gained hands-on industry exposure to AI-driven applications
 
-######## 🤝 Connect With Me
+# 🤝 Connect With Me
 
 Open to AI/Data Science roles, internships, research projects, and technical collaborations.
 
