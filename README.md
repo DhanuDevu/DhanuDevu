@@ -23,33 +23,40 @@ Final-year B.E. student in Artificial Intelligence & Data Science with strong ha
   <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,mysql,git,github" />
 </p>
 
-<h2>🛠️ Skills & Tools</h2>
+## 🧰 Skills & Technologies
 
-<h3>🤖 AI / Data Science</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
-<p>
-  Machine Learning · Deep Learning (CNN) · Data Cleaning & Preprocessing · Statistical Analysis
-</p>
+### 💻 Programming & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-<h3>📚 Libraries & Tools</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="28"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="28"/>
-</p>
+### 📊 Data Analysis & Machine Learning
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-4B0082?style=flat)
+![CNN](https://img.shields.io/badge/CNN-800080?style=flat)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-2E8B57?style=flat)
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-4682B4?style=flat)
 
-<h3>🗄️ Databases</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
+### 📚 Libraries & Visualization
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
-<h3>🧰 Developer Tools</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws" />
-</p>
+### 🗄️ Databases
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+### 🧰 Developer Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-Basic-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 
 
