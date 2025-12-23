@@ -7,10 +7,12 @@
 🚀 About Me
 Final-year B.E. student in Artificial Intelligence & Data Science with strong hands-on experience in Machine Learning, Data Analytics, and secure application development. I work at the intersection of AI, data, and security, building real-world systems like emotion detection, encryption tools, and privacy-focused architectures. Solid foundation in Python, data preprocessing, deep learning (CNNs), and visualization, with exposure to full-stack and cloud tools.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-Languages & Frameworks:
-Python, JavaScript (Basics), C, HTML5, CSS3, Dart (Flutter)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,cpp,html,css,react,nodejs,express,mongodb,mysql,git,github" />
+</p>
+
 
 AI / Data Science:
 Machine Learning, Deep Learning (CNN), Data Cleaning & Preprocessing, Statistical Analysis
