@@ -98,4 +98,14 @@ Open to AI/Data Science roles, internships, research projects, and technical col
   </a>
 </p>
 
+  <a href="mailto:dhanugowda.041@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/_dhanush01_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+
 
