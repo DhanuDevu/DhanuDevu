@@ -18,20 +18,38 @@ Final-year B.E. student in Artificial Intelligence & Data Science with strong ha
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,cpp,html,css,react,nodejs,express,mongodb,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,,html,css,react,nodejs,express,mongodb,mysql,git,github" />
 </p>
 
-### AI / Data Science:
-#### Machine Learning, Deep Learning (CNN), Data Cleaning & Preprocessing, Statistical Analysis
+<h2>🛠️ Skills & Tools</h2>
 
-### Libraries & Tools:
-#### TensorFlow, OpenCV, Matplotlib, Power BI, Tableau
+<h3>🤖 AI / Data Science</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+<p>
+  Machine Learning · Deep Learning (CNN) · Data Cleaning & Preprocessing · Statistical Analysis
+</p>
 
-### Databases:
-#### SQL, MySQL, MongoDB
+<h3>📚 Libraries & Tools</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="48"/>
+</p>
 
-### Developer Tools:
-#### Git, GitHub, VS Code, Google Colab, AWS (Basic)
+<h3>🗄️ Databases</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+<h3>🧰 Developer Tools</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,aws" />
+</p>
+
+
 
 # 🏆 Projects
 
