@@ -22,35 +22,35 @@ Final-year B.E. student in Artificial Intelligence & Data Science with strong ha
 </p>
 
 ### AI / Data Science:
-Machine Learning, Deep Learning (CNN), Data Cleaning & Preprocessing, Statistical Analysis
+#### Machine Learning, Deep Learning (CNN), Data Cleaning & Preprocessing, Statistical Analysis
 
 ### Libraries & Tools:
-TensorFlow, OpenCV, Matplotlib, Power BI, Tableau
+#### TensorFlow, OpenCV, Matplotlib, Power BI, Tableau
 
 ### Databases:
-SQL, MySQL, MongoDB
+#### SQL, MySQL, MongoDB
 
 ### Developer Tools:
-Git, GitHub, VS Code, Google Colab, AWS (Basic)
+#### Git, GitHub, VS Code, Google Colab, AWS (Basic)
 
 # 🏆 Projects
 
 🔹 Face Emotion Detection Using AI
 
-AI-based real-time system to detect and classify human emotions (happy, sad, angry, surprise, fear, neutral).
+#### AI-based real-time system to detect and classify human emotions (happy, sad, angry, surprise, fear, neutral).
 
-CNN-based model using TensorFlow & OpenCV
+#### CNN-based model using TensorFlow & OpenCV
 
-Real-time emotion classification from live video
-Tech: Python, TensorFlow, OpenCV, Deep Learning
+#### Real-time emotion classification from live video
+#### Tech: Python, TensorFlow, OpenCV, Deep Learning
 
 🔹 EncryptXpert – Secure File Protection Tool
 
-Password-based file encryption and decryption system for secure data handling.
+#### Password-based file encryption and decryption system for secure data handling.
 
-Implemented AES-GCM/EAX encryption
+#### Implemented AES-GCM/EAX encryption
 
-Secure key generation using PBKDF2
+#### Secure key generation using PBKDF2
 
 Reliable metadata handling and file recovery
 Tech: Python, PyCryptodome, AES, Cryptography
@@ -104,7 +104,6 @@ Open to AI/Data Science roles, internships, research projects, and technical col
   <a href="https://dhanudevu.github.io/Protfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-</p>
 
   <a href="mailto:dhanugowda.041@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
