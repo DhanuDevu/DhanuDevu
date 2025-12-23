@@ -113,7 +113,7 @@ TechnoFly Solutions – Web Development & Data Science Intern
 
 - Gained hands-on industry exposure to AI-driven applications
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
 Open to AI/Data Science roles, internships, research projects, and technical collaborations.
 
