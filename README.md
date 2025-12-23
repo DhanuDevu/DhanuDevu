@@ -14,19 +14,20 @@ Final-year B.E. student in Artificial Intelligence & Data Science with strong ha
 </p>
 
 
-AI / Data Science:
+### AI / Data Science:
 Machine Learning, Deep Learning (CNN), Data Cleaning & Preprocessing, Statistical Analysis
 
-Libraries & Tools:
+#### Libraries & Tools:
 TensorFlow, OpenCV, Matplotlib, Power BI, Tableau
 
-Databases:
+##### Databases:
 SQL, MySQL, MongoDB
 
-Developer Tools:
+###### Developer Tools:
 Git, GitHub, VS Code, Google Colab, AWS (Basic)
 
-🏆 Projects
+####### 🏆 Projects
+
 🔹 Face Emotion Detection Using AI
 
 AI-based real-time system to detect and classify human emotions (happy, sad, angry, surprise, fear, neutral).
@@ -85,27 +86,7 @@ Applied ML models with frontend development
 
 Gained hands-on industry exposure to AI-driven applications
 
-📜 Certifications
-
-Data Science Professional – Oracle Cloud Infrastructure (2025)
-
-Data Analytics & Visualization – Forage
-
-R Programming & Statistical Analysis – Wingspan
-
-Ethical Hacking – NPTEL
-
-Industrial Workshop – Airbosoft Products & Services LLP
-
-🏅 Achievements
-
-Participant, HAXLR8 Hackathon – MIT Mysore
-
-Manuscript Marathon – Converted project into research-style paper
-
-Built production-level AI and encryption systems
-
-🤝 Connect With Me
+######## 🤝 Connect With Me
 
 Open to AI/Data Science roles, internships, research projects, and technical collaborations.
 
