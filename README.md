@@ -87,14 +87,13 @@ Gained hands-on industry exposure to AI-driven applications
 
 Open to AI/Data Science roles, internships, research projects, and technical collaborations.
 
-🔗 LinkedIn | Protfolio
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/dhanush-h-n-55ab08315" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://https://dhanudevu.github.io/Protfolio/
+  <a href="https://https://dhanudevu.github.io/Protfolio/"
 " target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
