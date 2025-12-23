@@ -1,4 +1,4 @@
-#🧑‍💻 Dhanush H N – AI & Data Science Engineer
+# Hi, I'm Dhanush H N 
 
 🚀 About Me
 Final-year B.E. student in Artificial Intelligence & Data Science with strong hands-on experience in Machine Learning, Data Analytics, and secure application development. I work at the intersection of AI, data, and security, building real-world systems like emotion detection, encryption tools, and privacy-focused architectures. Solid foundation in Python, data preprocessing, deep learning (CNNs), and visualization, with exposure to full-stack and cloud tools.
