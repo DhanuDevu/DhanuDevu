@@ -72,33 +72,33 @@ Final-year B.E. student in Artificial Intelligence & Data Science with strong ha
 
 ## 🔹 EncryptXpert – Secure File Protection Tool
 
-🔘 Password-based file encryption & decryption system
-🔘 Uses AES-GCM / EAX for strong data security
-🔘 Secure key generation implemented using PBKDF2
-🔘 Ensures safe metadata handling & reliable file recovery
-🔘 Tech Used: Python · PyCryptodome · AES · Cryptography
+- Password-based file encryption & decryption system
+- Uses AES-GCM / EAX for strong data security
+- Secure key generation implemented using PBKDF2
+- Ensures safe metadata handling & reliable file recovery
+- Tech Used: Python · PyCryptodome · AES · Cryptography
 
 ## 🔹 Protecting Medical Data Using Zero Trust Architecture
 
-🔘 Main project focused on healthcare data privacy & security
-🔘 Implemented Zero Trust Architecture for secure access control
-🔘 Integrated Blockchain-based protection for sensitive data
-🔘 Applied SHA-256 encryption and strict access mechanisms
-🔘 Tech Used: Blockchain · Cryptography · Data Security
+- Main project focused on healthcare data privacy & security
+- Implemented Zero Trust Architecture for secure access control
+- Integrated Blockchain-based protection for sensitive data
+- Applied SHA-256 encryption and strict access mechanisms
+- Tech Used: Blockchain · Cryptography · Data Security
 
 ## 🔹 Real-Time Bus Tracking System
 
-🔘 Developed during internship for real-time vehicle tracking
-🔘 Tracks bus location dynamically for users
-🔘 Integrated frontend, backend, and live data handling
-🔘 Improved transport monitoring and efficiency
+- Developed during internship for real-time vehicle tracking
+- Tracks bus location dynamically for users
+- Integrated frontend, backend, and live data handling
+- Improved transport monitoring and efficiency
 
 ## 🔹 Face Recognition Attendance System
 
-🔘 Automated attendance system using face recognition
-🔘 Reduced manual effort and human errors
-🔘 Improved accuracy and speed of attendance tracking
-🔘 Suitable for educational and organizational use
+- Automated attendance system using face recognition
+- Reduced manual effort and human errors
+- Improved accuracy and speed of attendance tracking
+- Suitable for educational and organizational use
 
 (Additional projects include calculators, trackers, productivity apps, and portfolio website.)
 
@@ -107,11 +107,11 @@ Final-year B.E. student in Artificial Intelligence & Data Science with strong ha
 TechnoFly Solutions – Web Development & Data Science Intern
 📅 Jul 2025 – Aug 2025
 
-Built real-time systems like Bus Tracking and Face Recognition Attendance
+- Built real-time systems like Bus Tracking and Face Recognition Attendance
 
-Applied ML models with frontend development
+- Applied ML models with frontend development
 
-Gained hands-on industry exposure to AI-driven applications
+- Gained hands-on industry exposure to AI-driven applications
 
 # 🤝 Connect With Me
 
