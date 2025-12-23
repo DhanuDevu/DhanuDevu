@@ -64,11 +64,11 @@ Final-year B.E. student in Artificial Intelligence & Data Science with strong ha
 
 ## 🔹 Face Emotion Detection Using AI
 
-🔘 AI-based real-time system to detect and classify human emotions
-🔘 Supports emotions: Happy, Sad, Angry, Surprise, Fear, Neutral
-🔘 Built using CNN architecture for accurate predictions
-🔘 Performs live emotion detection from video feed
-🔘 Tech Used: Python · TensorFlow · OpenCV · Deep Learning
+🔘 AI-based real-time system to detect and classify human emotions.
+🔘 Supports emotions: Happy, Sad, Angry, Surprise, Fear, Neutral.
+🔘 Built using CNN architecture for accurate predictions.
+🔘 Performs live emotion detection from video feed.
+🔘 Tech Used: Python · TensorFlow · OpenCV · Deep Learning.
 
 ## 🔹 EncryptXpert – Secure File Protection Tool
 
