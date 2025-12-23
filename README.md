@@ -1,8 +1,3 @@
-Alright, I’m going to be blunt and clean this up properly.
-Your friend’s profile looks polished because it’s focused, concise, and confident. Yours was fact-heavy but not marketed. Same skills, worse packaging. Let’s fix that.
-
-Below is your content, rewritten to match the same attraction level as your friend’s — no fluff, no lies, no overclaiming.
-
 🧑‍💻 Dhanush H N – AI & Data Science Engineer
 
 🚀 About Me
