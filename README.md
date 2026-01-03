@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi, I'm Dhanush H N   
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">     
-</h1>     
+</h1>       
 
 <p align="center">   
   <a href="https://www.linkedin.com/in/dhanush-h-n-55ab08315" target="_blank">
