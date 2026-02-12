@@ -62,136 +62,6 @@ Final-year B.E. student in Artificial Intelligence & Data Science with strong ha
 <br>
 
 
-# 🏆 Projects
-
----
-
-## 🎭 Face Emotion Detection Using AI  
-**Real-Time Computer Vision | Deep Learning Powered**
-
-> An intelligent real-time emotion recognition system built using CNN architecture to analyze and classify human facial expressions from live video streams.
-
-**✨ Highlights**
-- Detects: Happy · Sad · Angry · Surprise · Fear · Neutral  
-- CNN-based predictive deep learning model  
-- Live webcam video classification  
-- Optimized preprocessing pipeline  
-
-**🛠 Tech Stack:** Python · TensorFlow · OpenCV · Deep Learning  
-
----
-
-## 🔐 EncryptXpert – Secure File Protection Tool  
-**Advanced Cryptographic File Security System**
-
-> A secure, password-based file encryption and decryption application designed to protect sensitive data using modern cryptographic standards.
-
-**✨ Highlights**
-- AES-GCM / EAX authenticated encryption  
-- PBKDF2-based secure key derivation  
-- Automatic nonce & metadata handling  
-- Reliable file recovery system  
-
-**🛠 Tech Stack:** Python · PyCryptodome · AES · Cryptography  
-
----
-
-## 🏥 Protecting Medical Data Using Zero Trust Architecture  
-**Blockchain-Integrated Secure Healthcare Framework**
-
-> A security-focused system designed to enforce Zero Trust principles for protecting sensitive healthcare data using cryptographic integrity and blockchain-backed validation.
-
-**✨ Highlights**
-- Zero Trust access control implementation  
-- SHA-256 data integrity verification  
-- Blockchain integration for tamper resistance  
-- Secure access & role validation mechanisms  
-
-**🛠 Tech Stack:** Blockchain · SHA-256 · Cryptography · Data Security  
-
----
-
-## 🚌 Real-Time Bus Tracking System  
-**Live Location Monitoring Platform | Internship Project**
-
-> A dynamic real-time vehicle tracking solution developed during my internship to enhance transport monitoring efficiency and user accessibility.
-
-**✨ Key Highlights**
-- Real-time GPS-based bus location tracking  
-- Integrated frontend, backend, and live data flow  
-- Dynamic route and vehicle status updates  
-- Improved operational monitoring and system efficiency  
-
-**🛠 Tech Stack:** Python · Web Technologies · Database · Real-Time Data Handling  
-
----
-
-## 🎓 Face Recognition Attendance System  
-**AI-Powered Automated Attendance Platform**
-
-> An intelligent attendance management system that leverages face recognition technology to eliminate manual entry and improve accuracy.
-
-**✨ Key Highlights**
-- Automated attendance using computer vision  
-- Reduced human errors and manual workload  
-- Faster recognition with improved tracking efficiency  
-- Suitable for schools, colleges, and organizations  
-
-**🛠 Tech Stack:** Python · OpenCV · Machine Learning · Database  
-
----
-
-## 📦 Additional Applications
-
-- Utility tools (calculators, trackers, productivity apps)  
-- Mini automation systems  
-- Personal portfolio website  
-
----
-
-
----
-
-
-## 💼 Internship
-
-TechnoFly Solutions – Web Development & Data Science Intern
-📅 Jul 2025 – Aug 2025
-
-- Built real-time systems like Bus Tracking and Face Recognition Attendance
-
-- Applied ML models with frontend development
-
-- Gained hands-on industry exposure to AI-driven applications
-
-## 🤝 Connect With Me
-
-Open to AI/Data Science roles, internships, research projects, and technical collaborations.
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/dhanush-h-n-55ab08315" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://dhanudevu.github.io/Protfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-
-  <a href="mailto:dhanugowda.041@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.instagram.com/_dhanush01_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
-
-
-
-
-  <hr/>
-
 # 💼 Flagship Projects
 
 ---
@@ -269,6 +139,61 @@ Open to AI/Data Science roles, internships, research projects, and technical col
 
 🛠 **Tech Stack:** Blockchain · Cryptography · SHA-256 · Data Security  
 
-<hr/>
+<hr/>  
+
+---
+
+## 📦 Additional Applications
+
+- Utility tools (calculators, trackers, productivity apps)  
+- Mini automation systems  
+- Personal portfolio website  
+
+---
+
+
+---
+
+
+## 💼 Internship
+
+TechnoFly Solutions – Web Development & Data Science Intern
+📅 Jul 2025 – Aug 2025
+
+- Built real-time systems like Bus Tracking and Face Recognition Attendance
+
+- Applied ML models with frontend development
+
+- Gained hands-on industry exposure to AI-driven applications
+
+## 🤝 Connect With Me
+
+Open to AI/Data Science roles, internships, research projects, and technical collaborations.
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhanush-h-n-55ab08315" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://dhanudevu.github.io/Protfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="mailto:dhanugowda.041@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/_dhanush01_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+
+
+
+  <hr/>
+
+
 
 
