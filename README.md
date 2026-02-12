@@ -143,15 +143,6 @@ Final-year B.E. student in Artificial Intelligence & Data Science with strong ha
 
 ---
 
-## 📦 Additional Applications
-
-- Utility tools (calculators, trackers, productivity apps)  
-- Mini automation systems  
-- Personal portfolio website  
-
----
-
-
 ---
 
 ## 🏢 Internship
