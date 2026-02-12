@@ -102,6 +102,56 @@ Final-year B.E. student in Artificial Intelligence & Data Science with strong ha
 
 (Additional projects include calculators, trackers, productivity apps, and portfolio website.)
 
+# 🏆 Featured Projects
+
+---
+
+## 🎭 Face Emotion Detection Using AI  
+**Real-Time Computer Vision | Deep Learning Powered**
+
+> An intelligent real-time emotion recognition system built using CNN architecture to analyze and classify human facial expressions from live video streams.
+
+**✨ Highlights**
+- Detects: Happy · Sad · Angry · Surprise · Fear · Neutral  
+- CNN-based predictive deep learning model  
+- Live webcam video classification  
+- Optimized preprocessing pipeline  
+
+**🛠 Tech Stack:** Python · TensorFlow · OpenCV · Deep Learning  
+
+---
+
+## 🔐 EncryptXpert – Secure File Protection Tool  
+**Advanced Cryptographic File Security System**
+
+> A secure, password-based file encryption and decryption application designed to protect sensitive data using modern cryptographic standards.
+
+**✨ Highlights**
+- AES-GCM / EAX authenticated encryption  
+- PBKDF2-based secure key derivation  
+- Automatic nonce & metadata handling  
+- Reliable file recovery system  
+
+**🛠 Tech Stack:** Python · PyCryptodome · AES · Cryptography  
+
+---
+
+## 🏥 Protecting Medical Data Using Zero Trust Architecture  
+**Blockchain-Integrated Secure Healthcare Framework**
+
+> A security-focused system designed to enforce Zero Trust principles for protecting sensitive healthcare data using cryptographic integrity and blockchain-backed validation.
+
+**✨ Highlights**
+- Zero Trust access control implementation  
+- SHA-256 data integrity verification  
+- Blockchain integration for tamper resistance  
+- Secure access & role validation mechanisms  
+
+**🛠 Tech Stack:** Blockchain · SHA-256 · Cryptography · Data Security  
+
+---
+
+
 ## 💼 Internship
 
 TechnoFly Solutions – Web Development & Data Science Intern
