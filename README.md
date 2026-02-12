@@ -141,7 +141,6 @@ Final-year B.E. student in Artificial Intelligence & Data Science with strong ha
 
 <hr/>  
 
----
 
 # 🏢 Internship
 
@@ -184,6 +183,7 @@ Final-year B.E. student in Artificial Intelligence & Data Science with strong ha
 
 <br>
 
+---
 
 ## 🤝 Connect With Me
 
