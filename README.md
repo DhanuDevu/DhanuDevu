@@ -60,49 +60,9 @@ Final-year B.E. student in Artificial Intelligence & Data Science with strong ha
 
 
 
+
+
 # 🏆 Projects
-
-## 🔹 Face Emotion Detection Using AI
-
-- AI-based real-time system to detect and classify human emotions.
-- Supports emotions: Happy, Sad, Angry, Surprise, Fear, Neutral.
-- Built using CNN architecture for accurate predictions.
-- Performs live emotion detection from video feed.
-- Tech Used: Python · TensorFlow · OpenCV · Deep Learning.
-
-## 🔹 EncryptXpert – Secure File Protection Tool
-
-- Password-based file encryption & decryption system
-- Uses AES-GCM / EAX for strong data security
-- Secure key generation implemented using PBKDF2
-- Ensures safe metadata handling & reliable file recovery
-- Tech Used: Python · PyCryptodome · AES · Cryptography
-
-## 🔹 Protecting Medical Data Using Zero Trust Architecture
-
-- Main project focused on healthcare data privacy & security
-- Implemented Zero Trust Architecture for secure access control
-- Integrated Blockchain-based protection for sensitive data
-- Applied SHA-256 encryption and strict access mechanisms
-- Tech Used: Blockchain · Cryptography · Data Security
-
-## 🔹 Real-Time Bus Tracking System
-
-- Developed during internship for real-time vehicle tracking
-- Tracks bus location dynamically for users
-- Integrated frontend, backend, and live data handling
-- Improved transport monitoring and efficiency
-
-## 🔹 Face Recognition Attendance System
-
-- Automated attendance system using face recognition
-- Reduced manual effort and human errors
-- Improved accuracy and speed of attendance tracking
-- Suitable for educational and organizational use
-
-(Additional projects include calculators, trackers, productivity apps, and portfolio website.)
-
-# 🏆 Featured Projects
 
 ---
 
@@ -148,6 +108,47 @@ Final-year B.E. student in Artificial Intelligence & Data Science with strong ha
 - Secure access & role validation mechanisms  
 
 **🛠 Tech Stack:** Blockchain · SHA-256 · Cryptography · Data Security  
+
+---
+
+## 🚌 Real-Time Bus Tracking System  
+**Live Location Monitoring Platform | Internship Project**
+
+> A dynamic real-time vehicle tracking solution developed during my internship to enhance transport monitoring efficiency and user accessibility.
+
+**✨ Key Highlights**
+- Real-time GPS-based bus location tracking  
+- Integrated frontend, backend, and live data flow  
+- Dynamic route and vehicle status updates  
+- Improved operational monitoring and system efficiency  
+
+**🛠 Tech Stack:** Python · Web Technologies · Database · Real-Time Data Handling  
+
+---
+
+## 🎓 Face Recognition Attendance System  
+**AI-Powered Automated Attendance Platform**
+
+> An intelligent attendance management system that leverages face recognition technology to eliminate manual entry and improve accuracy.
+
+**✨ Key Highlights**
+- Automated attendance using computer vision  
+- Reduced human errors and manual workload  
+- Faster recognition with improved tracking efficiency  
+- Suitable for schools, colleges, and organizations  
+
+**🛠 Tech Stack:** Python · OpenCV · Machine Learning · Database  
+
+---
+
+## 📦 Additional Applications
+
+- Utility tools (calculators, trackers, productivity apps)  
+- Mini automation systems  
+- Personal portfolio website  
+
+---
+
 
 ---
 
