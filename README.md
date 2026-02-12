@@ -189,3 +189,86 @@ Open to AI/Data Science roles, internships, research projects, and technical col
 
 
 
+
+  <hr/>
+
+# 💼 Flagship Projects
+
+---
+
+### 🚌 01 — Real-Time Bus Tracking System  
+#### _Live Transport Intelligence Platform_
+
+> A full-stack, real-time vehicle tracking system engineered to monitor fleet movement, optimize routing, and enhance operational visibility.
+
+🧠 **What Makes It Powerful**
+- 📡 Live GPS-based vehicle tracking  
+- 🔄 Seamless frontend–backend–database integration  
+- ⚡ Real-time data streaming & updates  
+- 📊 Improved transport efficiency & monitoring  
+
+🛠 **Tech Stack:** Python · Web Framework · Database · Real-Time APIs  
+
+---
+
+### 🎓 02 — Face Recognition Attendance System  
+#### _AI-Driven Automated Identity Verification_
+
+> A computer vision-powered attendance system that replaces manual processes with intelligent face recognition technology.
+
+🧠 **Core Capabilities**
+- 🎯 Automated attendance capture  
+- 🧑‍💻 OpenCV-based face recognition engine  
+- 🚀 Fast processing & improved accuracy  
+- 🏫 Designed for institutions & organizations  
+
+🛠 **Tech Stack:** Python · OpenCV · Machine Learning · SQLite  
+
+---
+
+### 🎭 03 — Face Emotion Detection Using AI  
+#### _Deep Learning Emotion Intelligence Engine_
+
+> A CNN-based real-time emotion classification system capable of analyzing human facial expressions through live video feeds.
+
+🧠 **Capabilities**
+- 😀 Detects 6 primary human emotions  
+- 🔬 CNN deep learning architecture  
+- 📷 Live webcam integration  
+- ⚙ Optimized image preprocessing pipeline  
+
+🛠 **Tech Stack:** Python · TensorFlow · OpenCV · Deep Learning  
+
+---
+
+### 🔐 04 — EncryptXpert  
+#### _Advanced Cryptographic File Protection Tool_
+
+> A secure encryption application implementing industry-grade AES standards to protect sensitive files from unauthorized access.
+
+🧠 **Security Features**
+- 🔑 AES-GCM / EAX authenticated encryption  
+- 🛡 PBKDF2 key derivation  
+- 🔒 Secure metadata handling  
+- ♻ Reliable decryption & recovery  
+
+🛠 **Tech Stack:** Python · PyCryptodome · AES · Cryptography  
+
+---
+
+### 🏥 05 — Protecting Medical Data Using Zero Trust  
+#### _Blockchain-Integrated Secure Healthcare Framework_
+
+> A security-focused architecture implementing Zero Trust principles with SHA-256 integrity validation and blockchain-backed verification.
+
+🧠 **Security Architecture**
+- 🚫 Zero Trust access control  
+- 🔐 SHA-256 integrity verification  
+- ⛓ Blockchain-based validation  
+- 🏗 Secure access & compliance model  
+
+🛠 **Tech Stack:** Blockchain · Cryptography · SHA-256 · Data Security  
+
+<hr/>
+
+
