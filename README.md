@@ -59,7 +59,7 @@ Final-year B.E. student in Artificial Intelligence & Data Science with strong ha
 ![AWS](https://img.shields.io/badge/AWS-Basic-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 
-
+<br>
 
 
 # 🏆 Projects
