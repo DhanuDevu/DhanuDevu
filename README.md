@@ -163,8 +163,6 @@ Final-year B.E. student in Artificial Intelligence & Data Science with strong ha
 
 ---
 
-<br>
-
 ### 🧠 AI / ML / Data Science Intern — IIES  
 #### _Building Intelligent Data-Driven Systems_
 
@@ -180,8 +178,6 @@ Final-year B.E. student in Artificial Intelligence & Data Science with strong ha
 - Contributing to scalable AI-based solutions  
 
 🛠 Tech Stack: Python · Pandas · NumPy · Scikit-Learn · TensorFlow · Data Visualization  
-
-<br>
 
 ---
 
