@@ -154,17 +154,48 @@ Final-year B.E. student in Artificial Intelligence & Data Science with strong ha
 
 ---
 
+## 🏢 Internship
 
-## 💼 Internship
+---
 
-TechnoFly Solutions – Web Development & Data Science Intern
-📅 Jul 2025 – Aug 2025
+### 🚀 AI & Web Development Intern  
+#### _TechnoFly Solutions — Applied Industry Experience_  
+📅 Jul 2025 – Aug 2025  
 
-- Built real-time systems like Bus Tracking and Face Recognition Attendance
+> Contributed to the development of real-time, data-driven systems integrating AI models with web technologies to build scalable and practical applications.
 
-- Applied ML models with frontend development
+⚡ **Key Contributions**
+- 🚌 Engineered a Real-Time Bus Tracking System  
+- 🎓 Developed a Face Recognition Attendance Platform  
+- 🤖 Integrated machine learning models with frontend systems  
+- 🌐 Implemented backend–database connectivity for live data handling  
+- 🧠 Strengthened practical exposure to AI-powered applications  
 
-- Gained hands-on industry exposure to AI-driven applications
+🛠 **Tech Stack:** Python · OpenCV · Machine Learning · Web Development · Database Systems  
+
+---
+
+
+- <br>
+
+### 🧠 AI / ML / Data Science Intern — IIES  
+#### _Building Intelligent Data-Driven Systems_
+
+📅 Ongoing Internship  
+
+> Actively working on real-world AI and data science problems, focusing on model development, performance optimization, and intelligent system design.
+
+⚡ **Key Responsibilities**
+- Designing and training ML models  
+- Implementing data pipelines for structured datasets  
+- Performing feature engineering & statistical analysis  
+- Improving model accuracy through tuning & validation  
+- Contributing to scalable AI-based solutions  
+
+🛠 Tech Stack: Python · Pandas · NumPy · Scikit-Learn · TensorFlow · Data Visualization  
+
+<br>
+
 
 ## 🤝 Connect With Me
 
