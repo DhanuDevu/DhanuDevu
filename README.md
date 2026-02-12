@@ -143,9 +143,7 @@ Final-year B.E. student in Artificial Intelligence & Data Science with strong ha
 
 ---
 
----
-
-## 🏢 Internship
+# 🏢 Internship
 
 ---
 
@@ -166,8 +164,7 @@ Final-year B.E. student in Artificial Intelligence & Data Science with strong ha
 
 ---
 
-
-- <br>
+<br>
 
 ### 🧠 AI / ML / Data Science Intern — IIES  
 #### _Building Intelligent Data-Driven Systems_
