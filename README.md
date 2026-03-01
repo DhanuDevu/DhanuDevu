@@ -1,4 +1,4 @@
-   <h1 align="center">
+    <h1 align="center">
   Hi, I'm Dhanush H N   
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">        
 </h1>       
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
-   
+    
 ## 🚀 About Me
 
 Final-year B.E. student in Artificial Intelligence & Data Science with strong hands-on experience in Machine Learning, Data Analytics, and secure application development. I work at the intersection of AI, data, and security, building real-world systems like emotion detection, encryption tools, and privacy-focused architectures. Solid foundation in Python, data preprocessing, deep learning (CNNs), and visualization, with exposure to full-stack and cloud tools.
