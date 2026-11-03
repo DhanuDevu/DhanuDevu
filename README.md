@@ -56,9 +56,6 @@ Final-year B.E. student in Artificial Intelligence & Data Science with strong ha
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-Basic-232F3E?style=flat&logo=amazonaws&logoColor=white)
-
-
 <br>
 
 
